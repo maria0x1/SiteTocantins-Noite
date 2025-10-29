@@ -1,3 +1,31 @@
+:root {
+    --roxo: rgb(47, 47, 114);
+}
+
 .navbar {
-    background-color: rgb(47, 47, 114) !important;
+    background-color: var(--roxo) !important;
+}
+
+.divisao {
+    background-color: var(--roxo) !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 2em !important;
+}
+
+.sec-pacotes {
+    margin: 0 10% 0 !important;
+    justify-content: center !important;
+    margin: 1% !important;
+}
+
+.card {
+    margin: 0 1% 1% !important;
+    padding: 1% !important;
+}
+
+footer {
+    background-color: var(--roxo) !important;
+    color: white !important;
+    padding: 1em !important;
 }
