@@ -24,6 +24,20 @@
     padding: 1% !important;
 }
 
+.card p {
+    text-align: justify !important;
+}
+
+.card h4 {
+    color: brown !important;
+}
+
+.sec-contato {
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
+
 footer {
     background-color: var(--roxo) !important;
     color: white !important;
