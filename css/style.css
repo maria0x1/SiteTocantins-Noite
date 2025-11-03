@@ -38,6 +38,12 @@
     margin-right: 10% !important;
 }
 
+.nav-link {
+    display: flexbox !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
 footer {
     background-color: var(--roxo) !important;
     color: white !important;
