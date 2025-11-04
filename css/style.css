@@ -37,13 +37,10 @@
     margin-left: 10% !important;
     margin-right: 10% !important;
 }
-
-.nav-link {
-    display: flexbox !important;
-    align-items: center !important;
-    justify-content: center !important;
+.nav-link, .nav-item{
+    display: inline-block !important; 
+    justify-content: left !important;
 }
-
 footer {
     background-color: var(--roxo) !important;
     color: white !important;
